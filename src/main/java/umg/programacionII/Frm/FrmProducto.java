@@ -234,6 +234,7 @@ public class FrmProducto {
         });
     }
 
+    //metodo par limpiar los campos
     private void limpiarCampos() {
         textFieldID.setText("");
         textFieldNombre.setText("");
